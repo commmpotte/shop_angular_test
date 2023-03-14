@@ -1,4 +1,5 @@
-#Intro
+# Intro
+
 In this project, I decided to explore Angular and build a simple application with data from the "fakestoreapi". I used the "tailwindcss" library to create easy-looking styles and the powerful "RxJS" library to help with data management.
 
 During the project, I gained experience with setting up routings and navigations, searching for items, and adding new elements through a user-friendly modal.

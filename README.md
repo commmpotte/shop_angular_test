@@ -8,6 +8,11 @@ The search functionality allows for a standard logic by filtering items, making 
 
 Overall, I found Angular to have beautiful and useful solutions for everyday tasks without the need for additional tools. I'm excited to dive deeper into this interesting framework and continue to learn more!
 
+## Some screenshots<img width="1280" alt="Снимок экрана 2023-03-14 в 19 25 30" src="https://user-images.githubusercontent.com/95095531/225072271-b0eb6d5d-1b86-4b8a-baab-6664ed2e6d06.png">
+<img width="1280" alt="Снимок экрана 2023-03-14 в 19 25 52" src="https://user-images.githubusercontent.com/95095531/225072290-34eeed99-e9ca-4bce-ab50-387f8a3999c0.png">
+
+
+
 # MyAngApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.

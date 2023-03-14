@@ -1,3 +1,12 @@
+#Intro
+In this project, I decided to explore Angular and build a simple application with data from the "fakestoreapi". I used the "tailwindcss" library to create easy-looking styles and the powerful "RxJS" library to help with data management.
+
+During the project, I gained experience with setting up routings and navigations, searching for items, and adding new elements through a user-friendly modal.
+
+The search functionality allows for a standard logic by filtering items, making it easy to find what you're looking for.
+
+Overall, I found Angular to have beautiful and useful solutions for everyday tasks without the need for additional tools. I'm excited to dive deeper into this interesting framework and continue to learn more!
+
 # MyAngApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
